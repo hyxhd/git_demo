@@ -6,4 +6,4 @@ hello zju! hello git
 hello zju! hello git
 hello zju! hello git
 hello zju! hello git master test
-hello zju! hello git
+hello zju! hello git hot-fix test
